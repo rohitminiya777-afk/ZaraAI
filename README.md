@@ -1,0 +1,2 @@
+# ZaraAI
+AI Assistant
